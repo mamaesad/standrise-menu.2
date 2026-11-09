@@ -1,0 +1,9 @@
+Package: com.nullroutee.standrisemenu
+Name: StandRise Menu
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: StandRise RE mod menu — 3-finger toggle, aimbot, ESP, misc.
+Maintainer: NullRoutee
+Author: NullRoutee
+Section: Tweaks
+Depends: mobilesubstrate
